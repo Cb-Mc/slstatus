@@ -1,0 +1,11 @@
+# Emacs backup/temp files
+*\#
+*~
+# Objects
+*.o
+# Executables
+slstatus
+# Patches
+patches/
+*.orig
+*.rej
